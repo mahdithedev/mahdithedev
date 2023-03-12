@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-i am currently working on Konkoor it's not a software project, it's an exam for college entrance in my home country 📚.
+I am currently working on Konkoor it's not a software project, it's an exam for college entrance in my home country 📚.
+I will put some socials below check them out if you are interested
 
 <ul>
 <li><a href="https://www.linkedin.com/in/mahdi-tajik-318b9925b" > <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin" /> linkedin </a></li>
