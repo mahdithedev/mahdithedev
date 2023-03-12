@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 I am currently working on Konkoor it's not a software project, it's an exam for college entrance in my home country 📚.
-
-wnat to see a coding project? check out my [latest repository](https://github.com/mahdithedev/snake).
-
 I will put some socials below. Check them out if you are interested
 
 <ul>
@@ -13,3 +10,5 @@ I will put some socials below. Check them out if you are interested
 
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[latest repository](https://github.com/mahdithedev/snake)
