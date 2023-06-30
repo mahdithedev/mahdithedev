@@ -11,4 +11,3 @@ I will put some socials below. Check them out if you are interested
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-the [last repository](https://github.com/mahdithedev/snake) i worked on.
