@@ -5,7 +5,6 @@ I will put some socials below. Check them out if you are interested
 
 <ul>
 <li><a href="https://www.linkedin.com/in/mahdi-tajik-318b9925b" > <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin" /> linkedin </a></li>
-<li><a href="https://www.twitter.com/mahdithedev"> <img height="16" width="16" src="https://cdn.simpleicons.org/twitter" /> twitter </a></li>
 </ul>
 
   
